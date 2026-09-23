@@ -7,7 +7,7 @@ Reporting Period: Latest available data (through December 2024)
 
 Key Insights
 
-The Shopify App Store dataset contains 500 apps and 7,981 customer reviews, with an overall average rating of approximately 4.19 out of 5. Review activity increased significantly over time, rising from 573 reviews in 2021 to 3,927 in 2024, a 76.7% increase from 2023 to 2024. The largest app categories include Sales and Conversion (49 apps), SEO (48), and Reviews and Ratings (45), while SEO, Reviews and Ratings, and Sales and Conversion also account for substantial review activity. Only about 24.8% of reviews have a developer reply, meaning most customer reviews do not receive a visible response.
+The Shopify App Store dataset contains 500 apps and 7,981 customer reviews, with an overall average rating of approximately 4.19 out of 5. Review activity increased significantly over time, rising from 556 reviews in 2021 to 3,804 in 2024, a 77% increase from 2023 to 2024. The largest app categories include Sales and Conversion (49 apps), SEO (48), and Reviews and Ratings (45), while SEO, Reviews and Ratings, and Sales and Conversion also account for substantial review activity. Only about 24.8% of reviews have a developer reply, meaning most customer reviews do not receive a visible response.
 
 Business Impact
 
